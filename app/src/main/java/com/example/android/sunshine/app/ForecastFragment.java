@@ -56,14 +56,16 @@ public class ForecastFragment extends Fragment {
         return rootView;
     }
 
-    public class FetchWeatherTask extends AsyncTask {
+    public class FetchWeatherTask extends AsyncTask<Void, Void, Void> {
 
         public FetchWeatherTask() {
-            return doInBackground();
+
         }
 
+        private final String LOG_TAG = FetchWeatherTask.class.getSimpleName();
+
         @Override
-        protected Object doInBackground(Object[] params) {
+        protected Void doInBackground(Void... params) {
 
             // These two need to be declared outside the try/catch
 // so that they can be closed in the finally block.
