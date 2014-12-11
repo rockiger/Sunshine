@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/macco/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/home/macco/Lernen/AndroidStudioProjects/Sunshine/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-ec31f8fb8c69dc51b70161e03341c4923497d29a.jar" />
+    </item>
+    <item
+        jar="/home/macco/Lernen/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/home/macco/Lernen/AndroidStudioProjects/Sunshine/app/build/intermediates/pre-dexed/debug/classes-6bd435c2a5a1736ed3c110a5b22657164b8ccc93.jar" />
+    </item>
+    <item
+        jar="/home/macco/Lernen/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/home/macco/Lernen/AndroidStudioProjects/Sunshine/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-b4eebe908283b44d5f4bfb4cf0719253c87324ac.jar" />
+    </item>
+    <item
+        jar="/home/macco/Lernen/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="/home/macco/Lernen/AndroidStudioProjects/Sunshine/app/build/intermediates/pre-dexed/debug/classes-23a5b756f02bade98f457bb2f6079a6e45efe2a6.jar" />
+    </item>
+
+</items>
